@@ -7,9 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Image x:Name="dk" HorizontalAlignment="Left" Height="58" Margin="234,199,0,0" VerticalAlignment="Top" Width="100" Source="/DKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK.jpg"/>
-        <Image HorizontalAlignment="Left" Height="100" Margin="449,172,0,0" VerticalAlignment="Top" Width="100"/>
-        <Button Content="Button" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.46,0.533" Click="Button_Click"/>
+        <Image x:Name="dk" HorizontalAlignment="Left" Height="58" Margin="37,37,0,0" VerticalAlignment="Top" Width="100" Source="/DKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK.jpg" Cursor="No"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="37,148,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="DK_Metcalf" Content="Button" HorizontalAlignment="Left" Margin="157,55,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.46,0.533" Click="Button_Click" Width="70"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="37,286,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
