@@ -134,5 +134,11 @@
   <ItemGroup>
     <Resource Include="DKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BAM BAM KAM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="richard shermannnnn.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
